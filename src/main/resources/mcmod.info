@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EmpireCore",
+  "name": "Empire Core",
+  "description": "Core Mod For All Empire Mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andrew2070"],
+  "credits": "Andrew2070",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
