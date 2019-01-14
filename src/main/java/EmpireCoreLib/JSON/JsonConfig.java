@@ -72,7 +72,7 @@ public abstract class JsonConfig<T, L extends List<T>> {
             EmpireCoreLib.logger.info("Failed to create " + name + " file!");
         }
     }
-
+//test
     /**
      * Writes the given list to the file, completely overwriting it
      */
